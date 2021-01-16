@@ -1,5 +1,6 @@
 # RBM-ais-investigation
-This is a short exercise I put together to investigate the usage of Annealed Importance Sampling to evaluate the unsupervised training of RBMS.
+This is a short exercise I put together to investigate the usage of Annealed Importance Sampling to evaluate the unsupervised training of 
+Restricted Boltzmann Machines (RBM's).
 
 I am interested in using density estimation to tuning good generative models for unintuitive data using quantitative metrics as the standard
 for evaluation. 
